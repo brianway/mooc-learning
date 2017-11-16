@@ -13,5 +13,8 @@ Labs for Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e).
 
 ## All Labs
 
-- Lab 1 - Data Lab: Manipulating Bits.*（I download the handout files of this lab from the schedule page of [2015 Fall](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html), NOT the [Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html), so there may be some differences.）*
-－ Lab 2 - Bomb Lab:
+- Lab 1 - [Data Lab](datalab/): Manipulating Bits.*（I download the handout files of this lab from the schedule page of [2015 Fall](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html), NOT the [Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html), so there may be some differences.）*
+- Lab 2 - [Bomb Lab](bomblab/): Defusing a Binary Bomb. Composed of 6 phases. The answer is written in `key.txt` with each phase a line.
+
+
+
